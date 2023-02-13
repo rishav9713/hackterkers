@@ -17,4 +17,4 @@
   - to push - git push origin <branch name>
   
   ```step 3```
-  - Now open pull
+  - Now open pull request and add in comment about your work and create pull request.
